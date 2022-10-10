@@ -1,4 +1,4 @@
-#space #medium #vision
+#spaced #medium #vision
 The kingdoms seen in Daniel's vision of the immense image were:
 - **Gold head**: Babylon
 - **Silver torso**: Medo-Persia
